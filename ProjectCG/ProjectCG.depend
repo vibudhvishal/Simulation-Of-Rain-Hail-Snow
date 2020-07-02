@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559191232 source:/root/ProjectCG/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/gl.h>
+
